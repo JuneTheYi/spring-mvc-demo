@@ -7,6 +7,9 @@
 		<br><br>
 		
 		Student name: ${param.studentName}
+		
+		<br><br>
+		Shouting the name: ${message}
 	</body>
 	
 </html> 
